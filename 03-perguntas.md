@@ -34,4 +34,5 @@ README como achado, com a correção aplicada à diretriz.
 |---|---|
 | Mapa mental | gerado — `materiais/mapa-mental.png` |
 | Resumo em áudio | gerado — `materiais/resumo-audio-as-armadilhas-de-criar-uma-empresa.m4a` |
+| Apresentação de slides | gerada — `materiais/slides-o-blueprint-do-empreendedor-em-portugal.pdf` |
 | Cartões de estudo | gerados no Estúdio, mas a ferramenta não oferece descarregamento |

@@ -182,10 +182,29 @@ Remunerações. Admitiu a lacuna sem lhe ser perguntado.
 | Material | Ficheiro |
 |---|---|
 | Mapa mental | [`materiais/mapa-mental.png`](materiais/mapa-mental.png) |
+| Apresentação de slides — *O Blueprint do Empreendedor em Portugal* (15 slides) | [`materiais/slides-o-blueprint-do-empreendedor-em-portugal.pdf`](materiais/slides-o-blueprint-do-empreendedor-em-portugal.pdf) |
 | Resumo em áudio — *As armadilhas de criar uma empresa* (36 MB) | [`materiais/resumo-audio-as-armadilhas-de-criar-uma-empresa.m4a`](materiais/resumo-audio-as-armadilhas-de-criar-uma-empresa.m4a) |
 
 Os **cartões de estudo** foram gerados no Estúdio, mas a ferramenta não permite descarregá-los — por
 isso não constam deste repositório.
+
+### A diretriz não chega ao Estúdio
+
+Comparar os slides com o chat revela um limite da ferramenta que vale a pena registar.
+
+Na resposta 9, o notebook recusou-se a usar as taxas de IRC de **16% e 20%** porque só apareciam num
+vídeo: *«seguindo as regras de rigor e hierarquia de autoridade, não se utilizam fontes em vídeo para
+fundamentar taxas, prazos ou limiares»* ([print 09](prints/09-limite-sem-fonte.png)). O slide 3 do
+deck, gerado pelo mesmo notebook e com as mesmas fontes, afirma: *«IRC fixo: 16% nos primeiros
+50.000 €, 20% no remanescente»*.
+
+**A diretriz governa o chat, não o Estúdio.** As instruções personalizadas condicionam as respostas
+às perguntas, mas os materiais gerados — slides, mapa mental, áudio — não passam pelo mesmo filtro de
+hierarquia de fontes. O material mais apresentável é, por isso, o menos fiável: afirma com confiança
+tipográfica um número que o próprio notebook se recusou a defender quando lhe perguntaram
+diretamente.
+
+Os slides ficam no repositório como foram gerados, sem correção, porque a comparação é o achado.
 
 ---
 
@@ -197,7 +216,7 @@ isso não constam deste repositório.
 ├── 02-diretriz.md               a diretriz colada no notebook, comentada
 ├── 03-perguntas.md              as 9 perguntas e a função de cada uma
 ├── fontes/pdf/                  os PDFs oficiais carregados no notebook
-├── materiais/                   mapa mental e resumo em áudio gerados no Estúdio
+├── materiais/                   mapa mental, slides e resumo em áudio do Estúdio
 └── prints/                      os 9 prints do chat, com as citações visíveis
 ```
 
@@ -213,6 +232,3 @@ quem monta.
 O método não é específico deste tema — a hierarquia de autoridade, a exigência de data e a verificação
 de território funcionam para qualquer assunto onde estar errado custe algo.
 
----
-
-*Desafio de projeto — Digital Innovation One · [Gemini Notebook](https://notebook.google.com)*
