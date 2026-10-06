@@ -37,12 +37,12 @@ preenche, está em [`01-fontes.md`](01-fontes.md). Resumo:
 
 | Documento | Entidade |
 |---|---|
-| *Início de Atividade — Rendimentos empresariais e profissionais: IRS e IVA* (15 pp.) | Autoridade Tributária e Aduaneira |
+| *Início de Atividade — Rendimentos empresariais e profissionais: IRS e IVA* (versão de março de 2026, 15 pp.) | Autoridade Tributária e Aduaneira |
 | *Atividade Fiscal* — e-book, nível 2 / módulo 10 (13 pp.) | Autoridade Tributária e Aduaneira |
 | *Guia Prático — Novo Regime dos Trabalhadores Independentes* (1009 – v1.09, 24 pp.) | Instituto da Segurança Social, I.P. |
 | *Guia Prático — Pagamento de Contribuições à Segurança Social* (2015 – v5.42, 22 pp.) | Instituto da Segurança Social, I.P. |
-| *Guia Prático — Inscrição e Alteração de Dados: Pessoa Coletiva* (9 pp.) | Instituto da Segurança Social, I.P. |
-| *Guia Prático — Inscrição/Alteração Membros Órgãos Estatutários* (1008 – v5.34, 17 pp.) | Instituto da Segurança Social, I.P. |
+| *Guia Prático — Inscrição e Alteração de Dados: Pessoa Coletiva* (2001 – v5.14, 01-01-2024, 9 pp.) | Instituto da Segurança Social, I.P. |
+| *Guia Prático — Inscrição/Alteração Membros Órgãos Estatutários* (1008 – v5.34, 12-01-2025, 17 pp.) | Instituto da Segurança Social, I.P. |
 | *Guia Prático — Subsídio por Cessação de Atividade Profissional para MOE* (6009 – v1.19, 26 pp.) | Instituto da Segurança Social, I.P. |
 | *Guia Explicativo: Como Elaborar um Plano de Negócio* (41 pp.) | IAPMEI |
 
@@ -130,12 +130,26 @@ que se vê no lado esquerdo de cada print.
 | 1 | Passos para constituir uma unipessoal por quotas | Seis passos cronológicos: firma e pacto social → registo comercial (Empresa na Hora ou Empresa 2.0) → realização do capital → comunicações à Segurança Social e RCBE → declaração de início de atividade por Contabilista Certificado → sistema de faturação. Custo de constituição ao balcão: **360 €**, pela tabela do IRN atualizada a maio de 2025 | *Criar Empresa na Hora* (IRN) · gov.pt *Iniciar o negócio* | [`01`](prints/01-passos-constituicao.png) |
 | 2 | ENI vs. unipessoal vs. sociedade por quotas | O ENI responde **ilimitadamente** com o património pessoal, é tributado em IRS e só precisa de contabilidade organizada acima de 200.000 €/ano. As duas sociedades limitam a responsabilidade ao capital social, são tributadas em **IRC** e exigem sempre contabilidade organizada com Contabilista Certificado | gov.pt *Iniciar o negócio* (com o Decreto-Lei n.º 248/86 citado na própria fonte) · folheto da AT | [`02`](prints/02-formas-legais.png) |
 | 3 | Regime de IVA no início e limiar de isenção | Entra-se no **Regime Especial de Isenção do art.º 53.º do CIVA** se a estimativa de volume de negócios para o resto do ano não exceder **15.000 €**. Ultrapassado o limiar durante o ano, a obrigação de liquidar depende de o exceder em mais de 25% — **18.750 €**. Indicou que os montantes constam do folheto oficial da AT **de março de 2026** | *Início de Atividade — IRS e IVA* (AT, março 2026) | [`03`](prints/03-iva-limiar.png) |
-| 4 | Sócio-gerente não remunerado paga Segurança Social? | **Sim**, mesmo sem salário, enquadrado como Membro de Órgão Estatutário. Sem vencimento fixado, a base de incidência é o **IAS = 537,13 €** para 2026 (Portaria n.º 480-A/2025/1). Taxa global de **34,75%**, repartida em 23,75% da empresa e 11% do gerente | Guia Prático 1008 (ISS, v. 12-01-2026) · OCC *TSU de sócio-gerente* · vídeo da Contabilidade Aveiro | [`04`](prints/04-gerente-nao-remunerado.png) |
+| 4 | Sócio-gerente não remunerado paga Segurança Social? | **Sim**, mesmo sem salário, enquadrado como Membro de Órgão Estatutário. Sem vencimento fixado, a base de incidência é o **IAS = 537,13 €** para 2026 (Portaria n.º 480-A/2025/1). Taxa global de **34,75%**, repartida em 23,75% da empresa e 11% do gerente. A data que atribuiu ao guia não está certa — ver a nota abaixo | Guia Prático 1008 (ISS, v5.34) · OCC *TSU de sócio-gerente* · vídeo da Contabilidade Aveiro | [`04`](prints/04-gerente-nao-remunerado.png) |
 | 5 | O vídeo e o guia da Segurança Social divergem? | Concordam na regra geral, na taxa de 34,75% e nas condições de isenção — incluindo que a isenção **não é automática**. Divergem nos **valores e no ano do IAS** e no detalhe das exceções, e o notebook declarou que prevalece o **Guia Prático da Segurança Social, por ser documento oficial** | Guia 1008 + vídeo da Contabilidade Aveiro, confrontados | [`05`](prints/05-conflito-fontes.png) |
 | 6 | Calendário anual de obrigações | Declaração de Remunerações ao ISS do **dia 1 ao 10** do mês seguinte (a de julho até 25 de agosto); pagamento da TSU entre o **dia 10 e o 20**. **E declarou a lacuna por iniciativa própria:** as fontes não contêm o calendário de IRC (Modelo 22) nem a Declaração Mensal de Remunerações para as Finanças | Guia 2001 *Pessoa Coletiva* (v5.14, 01-01-2024) · Guia 2015 *Pagamento de Contribuições* | [`06`](prints/06-calendario-obrigacoes.png) |
 | 7 | Deveres e direitos ao contratar o primeiro trabalhador | Comunicar a admissão **até 15 dias antes** do início do contrato (ou até 24 horas depois, em casos excecionais fundamentados), entregar cópia da comunicação ao trabalhador com NISS, NIF e data de admissão, submeter a Declaração de Remunerações e pagar a TSU. O trabalhador ganha direito à inscrição no regime geral e à cobertura de proteção social | Guia 2001 *Pessoa Coletiva* · Guia 2015 *Pagamento de Contribuições* | [`07`](prints/07-primeiro-trabalhador.png) |
 | 8 | Direitos do sócio-gerente que cessa funções | **Sim**, tem direito ao Subsídio por Cessação de Atividade Profissional, desde que a cessação seja **involuntária** (quebra de volume de negócios ≥ 40%, resultados negativos, insolvência). Exige prazo de garantia de **720 dias de contribuições a 34,75% nos últimos 48 meses**, situação contributiva regularizada e requerimento em **90 dias** | Guia Prático 6009 (ISS, v1.19, 15-05-2026) | [`08`](prints/08-direitos-do-gerente.png) |
 | 9 | **Teste de limites:** IRC de startup certificada em I&D | **Recusou responder.** Ver abaixo | — | [`09`](prints/09-limite-sem-fonte.png) |
+
+### Um erro que a verificação apanhou
+
+Na resposta 4, o notebook atribuiu o valor do IAS à *«versão de 12 de janeiro de 2026 do Guia
+Prático – Inscrição/Alteração MOE»*. A ficha técnica do documento diz **12 de janeiro de 2025**.
+
+Confrontado o PDF, o que se passa é mais interessante do que um lapso simples: o guia mantém a data
+de 2025 na capa, mas o corpo já traz *«Indexante dos Apoios Sociais (IAS) 537,13 € em 2026»* e cita a
+Portaria n.º 480-A/2025. O conteúdo foi atualizado sem que a ficha técnica acompanhasse, e o notebook
+inferiu a data a partir dos valores em vez de a ler na capa.
+
+**O número está certo; a referência não.** É exatamente o risco que o critério 2 da seleção de fontes
+tenta cobrir, e a razão pela qual as citações se abrem em vez de se aceitarem. Fica registado por ser
+o único ponto em que uma resposta não resistiu à conferência contra o original.
 
 ### O teste de limites
 
@@ -171,7 +185,7 @@ Remunerações. Admitiu a lacuna sem lhe ser perguntado.
 | Resumo em áudio — *As armadilhas de criar uma empresa* (36 MB) | [`materiais/resumo-audio-as-armadilhas-de-criar-uma-empresa.m4a`](materiais/resumo-audio-as-armadilhas-de-criar-uma-empresa.m4a) |
 
 Os **cartões de estudo** foram gerados no Estúdio, mas a ferramenta não permite descarregá-los — por
-isso não constam deste repositório. A **apresentação de slides** ainda não foi gerada.
+isso não constam deste repositório.
 
 ---
 
